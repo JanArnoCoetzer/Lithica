@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lithica\\Lithica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\sprite\\spritechunkgenerationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\sprite\\spritechunkgenerationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\sprite\\spritebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\sprite\\spritebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\materials\\materialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\materials\\materialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\managers\\terraingenerationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\managers\\terraingenerationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\managers\\world manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\managers\\world manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\lithica\\lithica\\assets\\0_lithica\\world\\geogen\\filters\\baseterrainfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\0_lithica\\world\\geogen\\filters\\baseterrainfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpriteChunkGenerationManager.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteChunkGenerationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteChunkGenerationManager.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteChunkGenerationManager.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteChunkGenerationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:06:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialGenerator.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Materials\\MaterialGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Materials\\MaterialGenerator.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Materials\\MaterialGenerator.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Materials\\MaterialGenerator.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:51:23.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteBuilder.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteBuilder.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteBuilder.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Sprite\\SpriteBuilder.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:26:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTerrainFilter.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Filters\\BaseTerrainFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Filters\\BaseTerrainFilter.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Filters\\BaseTerrainFilter.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Filters\\BaseTerrainFilter.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:05:48.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "World Manager.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Managers\\World Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Managers\\World Manager.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Managers\\World Manager.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Managers\\World Manager.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAUwMwBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:01:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TerrainGenerationManager.cs",
+              "DocumentMoniker": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Managers\\TerrainGenerationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\0_Lithica\\World\\GeoGen\\Managers\\TerrainGenerationManager.cs",
+              "ToolTip": "E:\\Lithica\\Lithica\\Assets\\0_Lithica\\World\\GeoGen\\Managers\\TerrainGenerationManager.cs",
+              "RelativeToolTip": "Assets\\0_Lithica\\World\\GeoGen\\Managers\\TerrainGenerationManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T19:41:03.15Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
